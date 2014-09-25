@@ -1,0 +1,6 @@
+#忽略DerivedData文件夹
+DerivedData/
+#忽略filemanager.xcodeproj/下除了project的文件
+filemanager.xcodeproj/
+!filemanager.xcodeproj/project.pbxproj
+!filemanager.xcodeproj/xcshareddata/
